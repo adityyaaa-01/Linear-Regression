@@ -28,3 +28,7 @@ This project applies a simple Linear Regression model using Python to predict pl
 - Understanding `.fit()`, `.predict()`, `.score()`
 - How a best-fit line works in regression
 - Visualizing predictions and interpreting coefficients
+
+---
+
+**📌 Don't forget to star ⭐ the repository if you found it helpful!**
